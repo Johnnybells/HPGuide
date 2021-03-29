@@ -1,2 +1,0 @@
-# HPGuide.github.io
-HPGuide
